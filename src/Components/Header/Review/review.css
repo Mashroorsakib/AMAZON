@@ -1,0 +1,11 @@
+.first{
+    display: flex;
+}
+.second{
+    width: 60%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border-right: 1px solid gray ;
+
+}
